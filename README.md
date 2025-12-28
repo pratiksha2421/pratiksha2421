@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently working on basic web development projects (HTML, CSS) and learning how to build simple interactive webpages.<br>I'm looking to collaborate on beginner-friendly web development projects or small creative coding ideas.<br>I'm looking for help with improving my coding logic , project structuring , and understanding concepts clearly.<br>I'm currently learning <br>HTML| CSS | Javascript | C++ basics<br>I'm beginner web development , HTML basics, college projects, and learning programming .<br>I love learning step by step and turning simple ideas into creative projects<br>
+👋 Hi, I'm Pratiksha Mishra  
 
+A beginner web developer learning HTML | CSS | JavaScript | C++ basics.  
+Focused on building simple projects, improving coding logic, and understanding core concepts clearly.  
+Enjoys learning step-by-step and converting ideas into creative projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/x.pratiksha_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikshamishra2421@gmail.com) 
