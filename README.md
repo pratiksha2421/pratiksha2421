@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm Pratiksha Mishra  
 
-A beginner web developer learning HTML | CSS | JavaScript | C++ basics.  
+A beginner web developer learning HTML | CSS | JavaScript | C++  
 Focused on building simple projects, improving coding logic, and understanding core concepts clearly.  
 Enjoys learning step-by-step and converting ideas into creative projects.
 
