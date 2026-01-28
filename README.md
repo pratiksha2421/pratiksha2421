@@ -9,7 +9,7 @@ Enjoys learning step-by-step and converting ideas into creative projects.
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/.................">
+  <a href="https://www.linkedin.com/in/pratiksha-mishra-3bb7a0370/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-darkmagenta?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/pratiksha2421">
