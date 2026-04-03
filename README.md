@@ -34,7 +34,7 @@ Enjoys learning step-by-step and converting ideas into creative projects.
   <img src="https://img.shields.io/badge/HTML5-Advanced-orange?style=for-the-badge&logo=HTML5" />
   <img src="https://img.shields.io/badge/CSS-Intermediate-lightgreen?style=for-the-badge&logo=CSS" />
   <img src="https://img.shields.io/badge/JavaScript-Beginner Level-brightgreen?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-Beginner Level-brightgreen?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Python-Beginner Level-skyblue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Git-VersionControl-darkmagenta?style=for-the-badge&logo=git" />
 </p>
 
